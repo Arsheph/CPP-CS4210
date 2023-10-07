@@ -78,7 +78,7 @@ for row in db:
 #print the error rate
 #--> add your Python code here
 errorRate = numWrong/numTotal
-print(errorRate)
+print(1 - errorRate)
 
 
 
